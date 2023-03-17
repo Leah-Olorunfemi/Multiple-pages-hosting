@@ -30,3 +30,11 @@ p {
   display: block;
   margin: 0 auto 25px;
 }
+.croissant-recipe {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.croissant-recipe a {
+  color: #dc3737;
+}
